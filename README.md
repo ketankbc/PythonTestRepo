@@ -1,2 +1,3 @@
 # PythonTestRepo
-Python practice Repo
+This is my python practice repository.
+
